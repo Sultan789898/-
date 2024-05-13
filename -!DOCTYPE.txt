@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html><head><titel>আমরা+আমরা+
+</head>
+<body>
+
+<h2>আমরা+আমযরা+</h2>
+<p>ব্যক্তিগত কোম্পানি</p>
+
+<img src="/storage/emulated/0/DCIM/CamScanner/3rd semester admit card_01.jpg" width="200" height="200">
+
+</body>
+</html>
+
